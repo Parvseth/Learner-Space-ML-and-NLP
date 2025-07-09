@@ -12,6 +12,13 @@
 
 ---
 
+## 📁 Assignment 2.1
+- 🧠 **Solution**: [`assignment2.1.ipynb`](./assignment2.1.ipynb)
+- 📄 **Documentation**: *Included within the Jupyter notebook at the end*
+
+
+---
+
 ## 📁 Assignment 3
 - 🧠 **Solution**: [`assignment3.ipynb`](./assignment3.ipynb)
 - 📄 **Documentation**: [`assignment3.txt`](./assignment3.txt)
