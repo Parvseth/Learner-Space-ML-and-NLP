@@ -1,0 +1,10 @@
+Result of assign4.py :
+{'loss': 3.254, 'grad_norm': 5.653645992279053, 'learning_rate': 2.7341079972658923e-08, 'epoch': 3.0}                                      
+{'train_runtime': 68870.7798, 'train_samples_per_second': 0.765, 'train_steps_per_second': 0.191, 'train_loss': 3.363325519841344, 'epoch': 3.0}
+100%|█████████████████████████████████████████████████████████████████████████████████████████████| 13167/13167 [19:07:50<00:00,  5.23s/it] 
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 250/250 [04:53<00:00,  1.17s/it]
+Perplexity: 24.63364631966434
+
+Result of evaluation4.py : means the evaluation of model trained for assignment 4 : 
+✅ Perplexity: 238.4984
+✅ Top-5 Accuracy: 0.4879
